@@ -1,4 +1,4 @@
-# ibisi
+# ibisi#1000
 <h1 align="center">Hi 👋, I'm ibisi</h1>
 <h3 align="center">18 y.o Developer </h3>
 
